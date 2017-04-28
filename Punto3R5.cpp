@@ -8,7 +8,7 @@
  * cada persona se le coloca su salario respectivo.
  * 
  * Autor: Carlos Daniel Marin 1663787 
- * 		  Javier Alexiz Orozco 1663928
+ * 		  Javier Alexis Orozco 1663928
  * 		  Daniel Mejia 1663916
  * Fecha de creacion: 26 / Abril / 2017 
  * Ultima fecha de modificacion: 27 / Abril / 2017
