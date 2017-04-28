@@ -3,7 +3,7 @@
  * Descripcion: A este programa se le ingresa un puntero, que apunta a 
  * un entero y lo eleva al cuadrado y despues debe retornar el entero.  
  * Autor: Carlos Daniel Marin 1663787 
- * 		  Javier Alexiz Orozco 1663928
+ * 		  Javier Alexis Orozco 1663928
  * 		  Daniel Mejia 1663916
  * Fecha de creacion: 26 / Abril / 2017 
  * Ultima fecha de modificacion: 27 / Abril / 2017
